@@ -66,7 +66,7 @@ When the page loads, I should see a list of all of the beer names retrieved from
 
 ### Step 2 - Display Single Beer Details
 
-When I click a beer name, the application should reveal more information about that particular beer. 
+When I click a beer name, the application should reveal more information about that particular beer.
 See the example above for the additional information that should be displayed.
 
 * **Route:** GET `http://localhost:3000/beers/:id`
